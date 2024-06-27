@@ -1,2 +1,4 @@
 # css
-Ejmplos y practicas de CSS moderno
+Ejemplos y prácticas de CSS moderno
+
+[repositorio](https://github.com/coxmau77/css)
